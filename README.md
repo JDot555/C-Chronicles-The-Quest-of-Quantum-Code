@@ -1,5 +1,5 @@
 # Code-Chronicles-The-Quest-for-Quantum-Code
-A game for beginner programs
+game for programming beginners
 
 this is a Game made by JDot for programing beginners. This is a C game in which you 
 have to solve a puzzle in order to pass the stage
