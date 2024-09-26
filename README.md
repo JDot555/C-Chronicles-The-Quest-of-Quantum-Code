@@ -19,7 +19,7 @@ for 64 bit:
 
 https://javadl.oracle.com/webapps/download/AutoDL?BundleId=250129_d8aa705069af427f9b83e66b34f5e380
 
-the given JRE given in above code is an online installer
+the given JRE 1.8.0 in above code is an online installer
 
 Things to keep in mind :
 
