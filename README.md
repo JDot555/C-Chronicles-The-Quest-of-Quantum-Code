@@ -21,4 +21,4 @@ the game which integer you have to take.
 3) you don't have to write all of the code just start writting answers.
 
 now play the game and have fun.
-And also stay tunned because there will be a second version of this game.
+And also stay tunned because there will be a second version of this game with more and complex puzzles in it. 
