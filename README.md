@@ -6,10 +6,7 @@ have to solve a puzzle in order to pass the stage. There are Total of 12 Puzlles
 
 How to run:
 
-you will need to install JRE to run this program the minumum version for JRE is 11 you can also install JDK 23 to run this game.
-install JDK 23:
-
-https://download.oracle.com/java/23/latest/jdk-23_windows-x64_bin.exe
+you will need not to install JRE or JDK to run this program.
 
 Things to keep in mind :
 
